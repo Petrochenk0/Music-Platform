@@ -12,7 +12,7 @@
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone [https://github.com/Petrochenk0/music-app.git](https://github.com/Petrochenk0/Musical_App.git)
+    git clone https://github.com/Petrochenk0/Music-Platform.git
     ```
 
 2. Перейдите в директорию проекта:
