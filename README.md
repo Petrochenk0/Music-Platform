@@ -14,7 +14,7 @@
     ```bash
     git clone https://github.com/Petrochenk0/Music-Platform.git
     ```
-
+    
 2. Перейдите в директорию проекта:
 
     ```bash
